@@ -1,7 +1,7 @@
 * {
-  margin: 0px;
-  padding: 0px;
-  box-sizing: 0px;
+  margin: 0.1px;
+  padding: 0.1px;
+  box-sizing: 0.1px;
 }
 
 body {
@@ -54,7 +54,7 @@ nav {
   align-items: center;
 }
 
-#intro>h2 {
+#intro > h2 {
   margin-bottom: 15px;
 }
 
@@ -84,7 +84,7 @@ form {
 }
 
 .content img {
-  height: 50 px;
+  height: 50px;
   width: 5vw;
 }
 
@@ -149,7 +149,7 @@ form {
 
 .footer {
   left: 0;
-  right: 5;
+  right: 5px;
   bottom: 0;
   width: 100%;
   background-color: #ccc;
